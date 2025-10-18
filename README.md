@@ -67,7 +67,7 @@ _Screenshots:_
 **Goal:** One centered card with an image, name, short bio, and a button that links to your GitHub.
 
 Suggested changes:
-- Replace the image with your own (or use `assets/shuri.jpg`)
+- Replace the image with your own (or use `https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FB3BAkMLO641b7844GFg5wHNZCjuyUMPBEKpZVSfR6_4.jpg%3Fauto%3Dwebp%26s%3D761c5911bbfa65887d3ff96821334ece3397819e`)
 - Try color classes: `text-blue-600`, `bg-violet-200`, `text-green-700`
 - Add spacing: `p-6`, `mt-4`, `mb-2`
 - Round things: `rounded-lg`, `rounded-full`
